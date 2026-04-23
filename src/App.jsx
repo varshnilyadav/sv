@@ -6,6 +6,7 @@ import Process from './components/Process';
 import Quality from './components/Quality';
 import LocationFAQ from './components/LocationFAQ';
 import Footer from './components/Footer';
+import FloatingWhatsApp from './components/FloatingWhatsApp';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Quality />
       <LocationFAQ />
       <Footer />
+      <FloatingWhatsApp />
     </>
   );
 }

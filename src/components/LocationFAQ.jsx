@@ -121,7 +121,7 @@ const LocationFAQ = () => {
                   </div>
                 </div>
                 
-                <a href="#book" className="btn btn-primary" style={{ width: '100%', marginTop: '1rem' }}>
+                <a href="https://maps.google.com/?q=SV+CARZ+SPA" target="_blank" rel="noopener noreferrer" className="btn btn-primary" style={{ width: '100%', marginTop: '1rem' }}>
                   Get Directions
                 </a>
               </div>
