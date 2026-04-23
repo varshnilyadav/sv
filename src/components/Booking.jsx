@@ -20,7 +20,7 @@ const Booking = () => {
     const { name, phone, vehicle, date, service } = formData;
     const text = `Hi, I would like to book a slot.\n\n*Name:* ${name}\n*Phone:* ${phone}\n*Vehicle:* ${vehicle}\n*Date:* ${date}\n*Service:* ${service}`;
     const encodedText = encodeURIComponent(text);
-    window.open(`https://wa.me/919876543210?text=${encodedText}`, '_blank');
+    window.open(`https://wa.me/918686974441?text=${encodedText}`, '_blank');
   };
 
   return (

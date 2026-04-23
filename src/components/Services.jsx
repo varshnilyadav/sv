@@ -66,7 +66,7 @@ const Services = () => {
                 <h3 className="service-title">{service.title}</h3>
                 <div className="service-desc-wrapper">
                   <p className="service-desc">{service.description}</p>
-                  <a href="https://wa.me/919876543210?text=Hi%2C%20I%20would%20like%20to%20book%20a%20slot%20for%20car%20detailing." target="_blank" rel="noopener noreferrer" className="service-link">Learn More</a>
+                  <a href="https://wa.me/918686974441?text=Hi%2C%20I%20would%20like%20to%20book%20a%20slot%20for%20car%20detailing." target="_blank" rel="noopener noreferrer" className="service-link">Learn More</a>
                 </div>
               </div>
             </motion.div>

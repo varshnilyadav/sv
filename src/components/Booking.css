@@ -98,7 +98,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .btn-whatsapp-submit {
-  background-color: #ea0000; /* Bright red matching the reference image */
+  background-color: var(--color-red);
   color: #fff;
   border: none;
   padding: 1.2rem;
@@ -116,9 +116,9 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .btn-whatsapp-submit:hover {
-  background-color: #ff1a1a;
+  background-color: #f43f5e;
   transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(234, 0, 0, 0.3);
+  box-shadow: 0 0 20px rgba(225, 29, 72, 0.4);
 }
 
 @media (max-width: 768px) {

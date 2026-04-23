@@ -34,7 +34,7 @@ const Navbar = () => {
           <a href="#process" onClick={() => setIsOpen(false)}>The Process</a>
           <a href="#quality" onClick={() => setIsOpen(false)}>Quality</a>
           <a href="#location" onClick={() => setIsOpen(false)}>Location</a>
-          <a href="https://wa.me/919876543210?text=Hi%2C%20I%20would%20like%20to%20book%20a%20slot%20for%20car%20detailing." target="_blank" rel="noopener noreferrer" className="btn btn-primary nav-btn" onClick={() => setIsOpen(false)}>
+          <a href="https://wa.me/918686974441?text=Hi%2C%20I%20would%20like%20to%20book%20a%20slot%20for%20car%20detailing." target="_blank" rel="noopener noreferrer" className="btn btn-primary nav-btn" onClick={() => setIsOpen(false)}>
             Join Us
           </a>
         </div>
