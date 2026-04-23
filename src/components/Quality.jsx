@@ -93,16 +93,24 @@ const Quality = () => {
             <h3 className="subsection-title">Project Gallery</h3>
             <div className="gallery-grid">
               <div className="gallery-item">
-                <img src="/images/hero-car.png" alt="Gloss Finish" />
-                <div className="gallery-overlay"><span>Ultimate Gloss</span></div>
+                <img src="/images/gallery-1.jpg" alt="Premium Detailing" />
+                <div className="gallery-overlay"><span>Precision</span></div>
               </div>
               <div className="gallery-item">
-                <img src="/images/water-beading.png" alt="Water Beading" />
-                <div className="gallery-overlay"><span>Hydrophobic</span></div>
+                <img src="/images/gallery-2.jpg" alt="Premium Detailing" />
+                <div className="gallery-overlay"><span>Perfection</span></div>
+              </div>
+              <div className="gallery-item">
+                <img src="/images/gallery-3.jpg" alt="Premium Detailing" />
+                <div className="gallery-overlay"><span>Gloss</span></div>
+              </div>
+              <div className="gallery-item">
+                <img src="/images/gallery-4.jpg" alt="Premium Detailing" />
+                <div className="gallery-overlay"><span>Protection</span></div>
               </div>
               <div className="gallery-item span-col-2">
-                <img src="/images/hex-lights.png" alt="Hex Lights Reflection" />
-                <div className="gallery-overlay"><span>Flawless Reflection</span></div>
+                <img src="/images/gallery-5.jpg" alt="Premium Detailing" />
+                <div className="gallery-overlay"><span>Excellence</span></div>
               </div>
             </div>
           </motion.div>
